@@ -27,12 +27,11 @@
     padding-top: 9px;
     margin-top: 30px
     }
-#foot {
-    font-size: 10px;
-    float: left;
-    color: #353535;
-    }
-.icons {
+.icons, .foot {
     list-style: none;
         float: right;
+}
+.footertext{
+    color: rgb(22, 21, 21);
+    float: left;
 }
